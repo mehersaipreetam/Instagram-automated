@@ -1,8 +1,7 @@
-### Automating WhatsApp Message Delivery
+### Automating Instagram Likes
 
-Though the primary code is centred around sending images in a directory, the concepts in it can be extended to images, files, etc.
+Primarily the code is centred around liking images in a profile (all), one by one, although same concept can be applied to say commenting, saving etc.
 
-A snippet is commented out which has the code to be run to send text messages only.
-(For that, please comment out the rest and make this snippet executable)
+Take care of the time intervals, too less is triggering instagram these days. Also network speed matters
 
 - Madiraju Meher Sai Preetam
